@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<context-param>
+	<param-name>contextClass</param-name>
+	<param-value>
+	org.sparigramework.web.context.support.AnnotationConfigWebApplicationContext
+	</param-value>
+</context-param>
+
+<context-parama>
+	<param-name>contextConfigLoaction</param-name>
+	<param-value>jp.tuyano.spring.websample1.MyBeanConfig</param-value>
+</context-parama>

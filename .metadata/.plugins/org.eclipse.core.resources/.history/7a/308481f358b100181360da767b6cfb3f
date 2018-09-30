@@ -1,0 +1,16 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		// 配列
+		// salse1,salse2
+
+		int[] salses;
+		salses = new int[3];l
+
+			System.out.println(i);
+		}
+
+	}
+
+}

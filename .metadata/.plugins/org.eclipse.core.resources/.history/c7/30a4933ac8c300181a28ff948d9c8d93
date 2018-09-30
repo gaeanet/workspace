@@ -1,0 +1,6 @@
+package jp.tuyano.spring.websample1;
+
+@Component
+public class MyBean {
+
+}

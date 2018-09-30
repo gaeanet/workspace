@@ -1,0 +1,22 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+
+		//演算 + - / * %
+		int i = 11/4;
+		System.out.println(i);		//四捨五入
+
+		i = 10%3;
+		System.out.println(i);
+
+		int x = 5;
+		x++;
+		System.out.println(x);
+
+		x--;
+		System.out.println(x);
+
+	}
+
+}

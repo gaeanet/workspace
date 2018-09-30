@@ -1,0 +1,34 @@
+package jp.wakui.spring.aop1;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+
+public class MyBean1 implements IMyBean<List<String>> {
+	private List<String> data = new ArrayList<String>();
+	private Date date = Calendar.getInstance().getTime();
+	
+	@Override
+	public void setDataObject(List<String> obj) {
+		data = obj;
+	}
+
+	@Override
+	public List<String> getDataObject() {
+		return data;
+	}
+
+	@Override
+	public void addData(Object obj) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public String toStgring() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

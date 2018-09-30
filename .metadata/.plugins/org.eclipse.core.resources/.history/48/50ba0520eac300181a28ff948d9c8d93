@@ -1,0 +1,9 @@
+package jp.tuyano.spring.websample1;
+
+@Configuration
+
+
+
+public class MyBeanConfig {
+
+}

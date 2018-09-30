@@ -1,0 +1,12 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		double d = 52343.24;
+		int i = d;
+
+		System.out.println(i);
+
+	}
+
+}

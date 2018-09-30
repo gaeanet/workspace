@@ -1,0 +1,6 @@
+package jp.wakui.spring.aop1;
+
+public interface IMyBean<T> {
+	public void setDataObject(T obj);
+	
+}

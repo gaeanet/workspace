@@ -1,0 +1,9 @@
+package jp.tuyano.spring.sample1;
+
+public class AutoMyBeanConfig {
+
+	@Bean
+	public MyBeanInterface myBean() {
+		
+	}
+}

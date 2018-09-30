@@ -1,0 +1,11 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+
+		//演算 + - / * %
+		int i = 10/3;
+		System.out.println(msg);
+	}
+
+}

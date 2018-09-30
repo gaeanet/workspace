@@ -1,0 +1,19 @@
+
+
+object MyApp {
+
+  def main(args:Array[String]) :Unit ={
+    //変数
+    /*変数*/
+
+    // val 定数 immutable
+    // var 変数 mutable
+
+    //val msg:String = "Hello World!"
+    var msg = "Hello World"
+    msg = "値を変更"
+
+    println(msg)
+  }
+
+}

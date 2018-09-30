@@ -1,0 +1,27 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+
+		//演算 + - / * %
+		int i = 10/6;
+		System.out.println(i);		//切り捨て
+
+		i = 10%3;
+		System.out.println(i);
+
+		int x = 5;
+		x++;
+		System.out.println(x);
+
+		x--;
+		System.out.println(x);
+
+		x += 12;
+		System.out.println(x);
+
+		String s = "hello" + "World";
+		System.out.println(s);
+	}
+
+}

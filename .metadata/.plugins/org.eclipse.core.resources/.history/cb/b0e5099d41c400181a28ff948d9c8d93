@@ -1,0 +1,5 @@
+package jp.tuyano.spring.aop1;
+
+public interface IMyBean {
+
+}

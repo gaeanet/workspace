@@ -1,0 +1,29 @@
+package jp.wakui.spring.aop1;
+
+public class MyBean2 implements IMyBean {
+
+	@Override
+	public void setDataObject(Object obj) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getDataObject() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void addData(Object obj) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public String toStgring() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

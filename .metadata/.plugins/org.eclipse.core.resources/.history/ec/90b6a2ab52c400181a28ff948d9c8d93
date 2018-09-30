@@ -1,0 +1,16 @@
+package jp.wakui.spring.aop1;
+
+import org.aspectj.lang.JoinPoint;
+
+public class MyBeanAspect {
+	public void addDataBefore(JoinPoint joinpoint) {
+		System.out.println("*addData before...");
+		String args = "args: \"";
+		
+		for(Object ob:joinpoint.getArgs()) {
+			args += obj + " \" ";
+		}
+		
+		System.out.println(args);
+	}
+}

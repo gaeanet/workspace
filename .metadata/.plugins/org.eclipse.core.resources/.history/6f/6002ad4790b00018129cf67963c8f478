@@ -1,0 +1,18 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+//		double d = 52343.74;
+//		//キャスト
+//		int i = (int)d;
+		int i = 10;
+		double d = i /4;
+
+		System.out.println(d);
+
+		//勘違いし易い演算
+
+
+	}
+
+}

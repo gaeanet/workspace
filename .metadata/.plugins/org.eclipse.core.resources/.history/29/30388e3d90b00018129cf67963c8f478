@@ -1,0 +1,16 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+//		double d = 52343.74;
+//		//キャスト
+//		int i = (int)d;
+
+		System.out.println(i);
+
+		//勘違いし易い演算
+
+
+	}
+
+}

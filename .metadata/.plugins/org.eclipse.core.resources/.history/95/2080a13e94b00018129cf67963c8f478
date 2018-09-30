@@ -1,0 +1,21 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		String signal = "red";
+
+		switch (signal)
+			case "red":
+				System.out.println("Stop");
+				break;
+			case "blue":
+				break;
+			case "yellow":
+				break;
+			defalut:
+
+
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package jp.wakui.spring.aop1;
+
+import org.aspectj.lang.JoinPoint;
+
+public class MyBeanAspect {
+	public void addDataBefore(JoinPoint joinpoint) {
+		
+	}
+}

@@ -1,0 +1,13 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		String msg = "Hello world2!";
+		char a = 'a';
+		int x = 10;
+		long y = 55555555L;
+
+		System.out.println(msg);
+	}
+
+}

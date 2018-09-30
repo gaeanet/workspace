@@ -1,0 +1,11 @@
+package jp.tuyano.spring.sample1;
+
+import org.springframework.context.annotation.Bean;
+
+public class AutoMyBeanConfig {
+
+	@Bean
+	public MyBeanInterface myBean() {
+		return new MyBean("This is bean from Auto Config")
+	}
+}

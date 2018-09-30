@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="MySampleWebApp1"/>
+<aop-project name="AOPApp1"/>
+<aop-project name="MyMVCApp1"/>
+<aop-project name="MySampleApp1"/>
+</aop-reference-model>

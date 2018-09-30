@@ -1,0 +1,17 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		int score = 80;
+
+		if(score >= 80) {
+			println("Great");
+		}
+		}el0se if(score > 60) {
+			println("Good");
+		else {
+			println("so so");
+		}
+	}
+
+}

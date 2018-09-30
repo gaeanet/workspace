@@ -1,0 +1,17 @@
+
+public class MyApp {
+
+	public static void main(String[] args) {
+		String msg = "Hello world2!";
+		char a = 'a';
+		int x = 10;
+		long y = 55555555L;
+		double d = 243.42;
+		float f = 223332.33F;
+		boolean flag = true;
+		//文字 \n \t
+
+		System.out.println(msg);
+	}
+
+}

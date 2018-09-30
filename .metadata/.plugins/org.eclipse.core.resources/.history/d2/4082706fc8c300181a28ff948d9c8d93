@@ -1,0 +1,17 @@
+package jp.tuyano.spring.websample1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MyBean {
+	private List<String> messages = new ArrayList<String>();
+	
+	public MyBean() {
+		super();
+		messages.add("This is Bean Samples!");
+		
+	}
+}

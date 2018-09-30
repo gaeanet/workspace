@@ -1,0 +1,11 @@
+package jp.wakui.spring.aop1;
+
+public class App {
+	private static ApplicationConetext app;
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
